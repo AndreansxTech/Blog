@@ -4,6 +4,7 @@ url: "https://andreansxtech.github.io"
 baseurl: "/Blog" 
 
 theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "dark"
 
 plugins:
   - jekyll-feed
